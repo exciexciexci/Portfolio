@@ -14,7 +14,7 @@ with col1:
     st.image("Pictures/Profile_pic.jpg", width=180)
 
 with col2:
-    st.title("Manas R", anchor=False)
+    st.title("Exciminiano, Jose Carlo", anchor=False)
     st.write(
         "|| OIC-EW Licensed Marine Engineer Kingdom of Belgium/Marina | CSC professional level | Bachelors of Science in Marine Engineering | Bachelors of Science in Hotel and Restaurant Management Graduate ||"
     )
