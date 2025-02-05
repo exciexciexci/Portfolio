@@ -6,7 +6,7 @@ st.title("About")
 
 st.write(
     """
-    #### **I am a sophomore at PES University.**
+    #### **I am a Career shifter**
 ##### **I'm excited to be your Data Analyst While I may be new to the field I'm a quick learner, tech-savvy , and motivated to make your day-to-day workload easier. I bring a blend of customer service expertise, organizational skills, and adaptability, making me a perfect fit for the position.
 
 In my experience, I have honed my ability to manage high volumes of tasks under pressure, communicate efficiently with diverse coworkers and clients, and resolve issues. These skills translate seamlessly to virtual assistance, where attention to detail, time and management, and problem-solving are critical..**
