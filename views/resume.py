@@ -59,18 +59,18 @@ st.write(
 st.write("\n")
 st.markdown(
     """
-    <h3 style="text-decoration: underline;">Positions of Responsibility</h3>
+    <h3 style="text-decoration: underline;">Technical Skills</h3>
     """,
     unsafe_allow_html=True
 )
 st.write(
     """
-    - Design Team (Core), QQC club (National level Conquiztador Quiz)
-    - Design Team, Research Et AL club (Inquisto, Articulate, Erudio podcast)
-    - Design Team (Core), Kannada Koota club (Kannada Rajyotsva-2023)
-    - Logistics Team, Samarpana club (Samarpana Run-2023)
-    - Operations Team, CMS Club (Green Carnival)
-    - Web Development Member at Weal (Health Tech Club)
+    - CRM Proficiency, (Salesforce, THQ.
+    - Chat, Web, Email support 
+    - Amazon Web Services Phone Inbound and Outbound Phone  Management 
+    - MS office / Google suite (Google Apps)` Proficiency  
+    - Python
+    - and many More
     """
 )
 
