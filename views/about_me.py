@@ -7,7 +7,9 @@ st.title("About")
 st.write(
     """
     #### **I am a sophomore at PES University.**
-##### **Through my experience with hardship, I discovered a core strength that propels me to conquer any obstacle life might throw my way. It also gave me the confidence that I can do amazing things when I put my mind to something.**
+##### **I'm excited to be your Data Analyst While I may be new to the field I'm a quick learner, tech-savvy , and motivated to make your day-to-day workload easier. I bring a blend of customer service expertise, organizational skills, and adaptability, making me a perfect fit for the position.
+
+In my experience, I have honed my ability to manage high volumes of tasks under pressure, communicate efficiently with diverse coworkers and clients, and resolve issues. These skills translate seamlessly to virtual assistance, where attention to detail, time and management, and problem-solving are critical..**
 ##### **I believe that by transitioning that mentality to my professional career, the sky is the limit.**
     """
 )
@@ -32,9 +34,9 @@ a {
 </style>
 
 
-<a href="mailto:manas.contact17@gmail.com" target="_blank" style="font-size:50px;"><i class="fas fa-envelope"></i></a>
-<a href="https://github.com/manas1331" target="_blank" style="font-size:50px;"><i class="fab fa-github"></i></a>
-<a href="https://www.linkedin.com/in/manas1331" target="_blank" style="font-size:50px;"><i class="fab fa-linkedin"></i></a>
+<a href="jc.exciminiano@gmail.com" target="_blank" style="font-size:50px;"><i class="fas fa-envelope"></i></a>
+#a href="https://github.com/manas1331" target="_blank" style="font-size:50px;"><i class="fab fa-github"></i></a#
+<a href="https://www.linkedin.com/in/jcexciminiano/" target="_blank" style="font-size:50px;"><i class="fab fa-linkedin"></i></a>
 
 """, unsafe_allow_html=True)
 

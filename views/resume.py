@@ -16,7 +16,7 @@ with col1:
 with col2:
     st.title("Manas R", anchor=False)
     st.write(
-        "|| CSE Pre-Final year Student at PES University | Research Intern at ISFCR(Cybersecurity) | Member at Research Et Al | Samarpana | CMS | Weal | Core member at QQC | Kannada Koota ||"
+        "|| OIC-EW Licensed Marine Engineer Kingdom of Belgium/Marina | CSC professional level | Bachelors of Science in Marine Engineering | Bachelors of Science in Hotel and Restaurant Management Graduate ||"
     )
     # Uncomment the following code to add a Contact Me button
     # if st.button("✉️ Contact Me"):
@@ -26,16 +26,15 @@ with col2:
 st.write("\n")
 st.markdown(
     """
-    <h3 style="text-decoration: underline;">Experience & Qualifications</h3>
+    <h3 style="text-decoration: underline;">Professional Experiences</h3>
     """,
     unsafe_allow_html=True
 )
 st.write(
     """
-    - **Research Intern at ISFCR** , Bengaluru *[Jun 2024 - Jul 2024]*
-    - Strong hands-on experience and knowledge in Python and Excel
-    - Researched on Forensics of AI Attack on autonomous vehicles and wrote a survey paper on this.
-    - Currently working on countermeasures related to AI attacks on Autonomous vehicles.
+    - **Customer Support Specialist - TaskUs ; Bulacan Phillipines**, *March 2024 - Present*
+    - **OIC-EW Marine Engineer - Exmar PTC ; Makati Philippines | Antwerp Belgium**, *Jan 2019 - Oct 2023*
+    - **Barista/Crew Hospitality Taza Mia/The Mills Country Club**, *March 2024 - July  2024*
     """
 )
 
@@ -43,16 +42,16 @@ st.write(
 st.write("\n")
 st.markdown(
     """
-    <h3 style="text-decoration: underline;">Technical Skills</h3>
+    <h3 style="text-decoration: underline;">Professional Licenses</h3>
     """,
     unsafe_allow_html=True
 )
 st.write(
     """
-    - **Developer Tools:** GitHub, Visual Studio
-    - **Programming:** Python, C++, C, Java, Go, R
-    - **Data Visualization:** MS Excel, R
-    - **Databases:** MongoDB, MySQL
+    - **Officer in Charge of Engineering Watch  (Konigreich Belgien)**, *Nov 2024*
+    - **Officer in Charge of Engineering Watch (Marina)**, *Feb 2023*
+    - **Civil Service Commision Professional Level**, *Aug 2017*
+    - **National Certification Level II Tesda**, *May 2014*
     """
 )
 
@@ -79,6 +78,6 @@ st.write(
 with st.expander("##### **Resume Link**"):
     st.write("Click the link below to view my resume:")
     st.markdown(
-        '<a href="https://drive.google.com/file/d/1sqq0hb1Xtawafc_kVeExWiXrCIA-lQG3/view?usp=sharing" target="_blank">**View Resume**</a>',
+        '<a href="https://drive.google.com/file/d/1qazLMAshypavzQrWGM1uq0hJtIW0Pcqq/view?usp=drive_link" target="_blank">**View Resume**</a>',
         unsafe_allow_html=True
     )

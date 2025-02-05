@@ -23,9 +23,9 @@ a {
 </style>
 
 
-<a href="mailto:manas.contact17@gmail.com" target="_blank" style="font-size:60px;"><i class="fas fa-envelope"></i></a>
-<a href="https://github.com/manas1331" target="_blank" style="font-size:60px;"><i class="fab fa-github"></i></a>
-<a href="https://www.linkedin.com/in/manas1331" target="_blank" style="font-size:60px;"><i class="fab fa-linkedin"></i></a>
+<a href="jc.exciminiano@gmail.com" target="_blank" style="font-size:50px;"><i class="fas fa-envelope"></i></a>
+#a href="https://github.com/manas1331" target="_blank" style="font-size:50px;"><i class="fab fa-github"></i></a#
+<a href="https://www.linkedin.com/in/jcexciminiano/" target="_blank" style="font-size:50px;"><i class="fab fa-linkedin"></i></a>
 
 """, unsafe_allow_html=True)
 

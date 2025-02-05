@@ -6,7 +6,7 @@ st.write(
     """
     ### Welcome to My Portfolio Website!
 
-    ##### **I'm thrilled to share my journey and accomplishments with you. This website is a showcase of my professional growth, highlighting the skills and experiences that define my career.**
+    ##### **I'm thrilled to share what I've learned in my self learning journey on the tech world. This website is a showcase of my professional growth, highlighting the skills and experiences that define my career.**
 
     ### Explore the Sections of My Website:
 
